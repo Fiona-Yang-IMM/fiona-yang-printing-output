@@ -38,7 +38,7 @@ alert(output);
 
 let first_name = 'Fiona';
 let last_name = 'Yang';
-let email = 'fiona@email';
+let email = 'lufa0001@algonquinlive.com';
 let output_task_2 = '';
 
 output_task_2 = 'My name is ' + first_name + ' ' + last_name + '. You can contact me at ' + email + '.';
